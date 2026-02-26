@@ -1,0 +1,5 @@
+{
+  "name": "Persona Dossier AI",
+  "description": "Advanced person analysis tool that generates structured dossiers using Gemini 2.5 Flash and Google Search grounding.",
+  "requestFramePermissions": []
+}
